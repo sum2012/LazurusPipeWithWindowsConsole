@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="CmdControl.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ConsoleInput"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="18" Y="29"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="PasDoc_StreamUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="486"/>
+        <CursorPos Y="494"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="pasdoc_defines.inc"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="2" Y="23"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="26">
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="92" Column="5" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="72" Column="3" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="78" Column="56" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="36" Column="20" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="72" Column="20" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="36" Column="20" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="72" Column="3" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="92" Column="5" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="77" Column="18" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="79" Column="16" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="36" Column="20" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="77" Column="16" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="92" Column="5" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="36" Column="20" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="92" Column="5" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="36" Column="20" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="37" Column="41" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="92" Column="6" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="9" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="32"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="17" Column="18" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="4" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="41" Column="5" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="20" Column="56" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="33" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="28"/>
+      </Position>
+      <Position>
+        <Filename Value="CmdControl.lpr"/>
+        <Caret Line="32" Column="25" TopLine="7"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="ConsoleInput.Output.Text"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

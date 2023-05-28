@@ -1,0 +1,1 @@
+There is a bug that repeat keyboard buffer
