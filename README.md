@@ -1,0 +1,1 @@
+Use Lazurus(free pascal) programming language to write a pipe with windows console program ,use CreateProcess with  StartupInfo.hStdOutput ,StartupInfo.hStdInput and StartupInfo.hStdError .Also allow user keep input until input "exit".Also the program keep receiving data from TThread .Remember to free the TThread when the program quit.
